@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Rohan%20Barshwal&fontSize=42&fontColor=1a1a1a&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Rohan%20Barshwal&fontSize=42&fontColor=1a1a1a&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=75&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://github.com/Rohan-rkb">
@@ -21,26 +21,23 @@
 
 ## 🧑‍💻 Who I Am
 
-```ts
-const rohan = {
-  title: "Full Stack Developer",
-  stack: {
-    languages: ["Java", "Python", "JavaScript"],
-    frontend: ["HTML", "CSS", "JavaScript"],
-    database: ["SQL", "MongoDB"],
-    aiMl: ["scikit-learn", "NumPy", "Pandas", "PyTorch", "NLP"],
-    currentlyLearning: ["Spring Framework", "DevOps"],
-  },
-  launchedProjects: ["Hotel Management System"],
-  certifications: [],
-  status: "Open to work",
-  openTo: [
-    "Full Stack Developer roles",
-    "Backend / Java opportunities",
-    "Collaborative open-source projects",
-  ],
-};
-```
+**Title:** Full Stack Developer
+
+**Tech Stack:**
+- **Languages:** Java, Python, JavaScript
+- **Frontend:** HTML, CSS, JavaScript
+- **Database:** SQL, MongoDB
+- **AI/ML:** scikit-learn, NumPy, Pandas, PyTorch, NLP
+- **Currently Learning:** Spring Framework, DevOps
+
+**Launched Projects:** Hotel Management System
+
+**Status:** 🟢 Open to work
+
+**Open To:**
+- Full Stack Developer roles
+- Backend / Java opportunities
+- Collaborative open-source projects
 
 <br/>
 
@@ -49,10 +46,6 @@ const rohan = {
 ### 🏨 Hotel Management System
 
 A desktop-based hotel management application designed to automate room inventory tracking, guest check-ins/outs, and staff scheduling.
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohan-rkb&repo=Hotel-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Hotel Management System Repo Card"/>
-</div>
 
 | Layer      | Technology       |
 |------------|------------------|
@@ -127,6 +120,8 @@ A desktop-based hotel management application designed to automate room inventory
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
 
