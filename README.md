@@ -19,12 +19,12 @@
 
 <br/>
 
-## 🧑‍💻 Who I Am
+## 🧑‍💻 Hi, Welcome To My Profile
 
 **Title:** Full Stack Developer
 
 **Tech Stack:**
-- **Languages:** Java, Python, JavaScript
+- **Languages:** Java, C++, Python
 - **Frontend:** HTML, CSS, JavaScript
 - **Database:** SQL, MongoDB
 - **AI/ML:** scikit-learn, NumPy, Pandas, PyTorch, NLP
