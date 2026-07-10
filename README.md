@@ -1,26 +1,132 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Rohan Barshwal</h1>
-<h3 align="center">A passionate Software developer</h3>
+<!-- Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Rohan%20Barshwal&fontSize=42&fontColor=1a1a1a&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-rkb&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-rkb" /> </p>
+<!-- Typing SVG -->
+<a href="https://github.com/Rohan-rkb">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Building+the+Hotel+Management+System;Exploring+ML+with+PyTorch+%26+scikit-learn;Learning+Spring+%26+DevOps" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan-rkb" alt="rohan-rkb" /></a> </p>
+<!-- Open to Work -->
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-7DD3FC?style=for-the-badge&logo=github&logoColor=1a1a1a" alt="Open to Work"/>
 
-- 🔭 I’m currently working on **Full-Stack Development**
+<!-- View + Follower Counters -->
+<img src="https://komarev.com/ghpvc/?username=Rohan-rkb&color=7dd3fc&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Rohan-rkb?color=7dd3fc&style=for-the-badge&label=Followers&logo=github" alt="Followers"/>
 
-- 🌱 I’m currently learning **Spring Framework ,AI-ML and Devops**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rohan-rkb?tab=repositories](https://github.com/Rohan-rkb?tab=repositories)
+<br/>
 
-- 📫 How to reach me **rohanbarshwal7272@gmail.com**
+## 🧑‍💻 Who I Am
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohan barshwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan barshwal" height="30" width="40" /></a>
-</p>
+```ts
+const rohan = {
+  title: "Full Stack Developer",
+  stack: {
+    languages: ["Java", "Python", "JavaScript"],
+    frontend: ["HTML", "CSS", "JavaScript"],
+    database: ["SQL", "MongoDB"],
+    aiMl: ["scikit-learn", "NumPy", "Pandas", "PyTorch", "NLP"],
+    currentlyLearning: ["Spring Framework", "DevOps"],
+  },
+  launchedProjects: ["Hotel Management System"],
+  certifications: [],
+  status: "Open to work",
+  openTo: [
+    "Full Stack Developer roles",
+    "Backend / Java opportunities",
+    "Collaborative open-source projects",
+  ],
+};
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-rkb&show_icons=true&locale=en&layout=compact" alt="rohan-rkb" /></p>
+## 🚀 Featured Projects
+
+### 🏨 Hotel Management System
+
+A desktop-based hotel management application designed to automate room inventory tracking, guest check-ins/outs, and staff scheduling.
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohan-rkb&repo=Hotel-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Hotel Management System Repo Card"/>
+</div>
+
+| Layer      | Technology       |
+|------------|------------------|
+| Language   | Java             |
+| Database   | SQL / MongoDB    |
+| Interface  | Desktop (GUI)    |
+
+🔗 **Code:** [github.com/Rohan-rkb/Hotel-Management-System](https://github.com/Rohan-rkb/Hotel-Management-System)
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,py,js&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend"/>
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Database"/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,pytorch&theme=dark" alt="AI/ML"/>
+
+📚 Also working with **NLP**
+
+**Currently Learning**
+
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Currently Learning"/>
+
+📚 Also currently exploring: **DevOps**
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rohan-rkb&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9c9c9" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-rkb&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9c9c9" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Rohan-rkb&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rohan-rkb&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan-rkb&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Activity Graph"/>
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rohan-barshwal-bb0b3a369?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://img.shields.io/badge/LinkedIn-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=1a1a1a" alt="LinkedIn"/>
+</a>
+<a href="mailto:rohanbarshwal7272@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=1a1a1a" alt="Email"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
 
